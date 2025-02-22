@@ -2,10 +2,10 @@
   "APP_NAME": "Angular v18 Boiler Plate",
   "LANGUAGE": "Español",
   "Hello World": "Hola Mundo",
-  "Home": "Hogar",
-  "Login": "Iniciar",
+  "Home": "Dashboard",
+  "Login": "Iniciar sesión",
   "Username": "Nombre de usuario",
   "Password": "Contraseña",
-  "Angular Boiler Plate V18": "Modelo repetitivo angular V18",
+  "Angular Boiler Plate V18": "Gestión restaurante",
   "Dashboard": "Panel"
 }
